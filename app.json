@@ -1,0 +1,6 @@
+{
+  "name": "getsms",
+  "description": "An app in Flask to get SMS via Twilio.",
+  "repository": "https://github.com/gkovacs/getsms",
+  "keywords": ["flask", "heroku"]
+}
